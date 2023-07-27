@@ -1,0 +1,45 @@
+https://www.ontotext.com/blog/text-analysis-with-knowledge-graphs/
+
+https://ceur-ws.org/Vol-2535/paper_10.pdf
+Towards a Knowledge Graph Lifecycle: A
+pipeline for the population of a commercial
+Knowledge Graph
+
+https://www.rightsdirect.com/wp-content/uploads/sites/6/2021/05/Knowledge-Graphs-Connecting-Your-Data-to-Solve-Real-World-Problems-in-RD-Business-Intelligence-and-Strategy.pdf
+
+
+https://www.graphable.ai/blog/what-is-a-knowledge-graph/
+
+https://www.sisense.com/webinars/humanizing-bi-through-natural-language-processing-and-knowledge-graphs/?mkt_tok=eyJpIjoiT1RkbFltUmpNbUkyTVdabSIsInQiOiJ2VEtvblwvTmhhckhna3RtaDEwRnQ0dTI2ZVc4SnowakppTXhHbUxrdFRjM3Q4cjFcL0NHTTJQSzRuekltd09obVBiT3ZyYUIxTFdBVFlRdWM4VGk2WHRxNjBXRzN2SmtNdVhiTklJcWVRcWhLUENSczVUbmpTNXZRYWVmQzhRNDJBIn0%3D
+
+https://en.wikipedia.org/wiki/Business_intelligence
+
+https://technologyadvice.com/blog/information-technology/natural-language-processing-changing-business-intelligence/
+
+https://link.springer.com/article/10.1007/s10586-022-03593-4
+
+https://www.researchgate.net/publication/327766851_Social_business_intelligence_Review_and_research_directions
+
+https://cloud.google.com/enterprise-knowledge-graph/docs/overview
+
+https://www.graphen.ai/products/market_intelligence.html
+
+https://iswc2017.ai.wu.ac.at/wp-content/uploads/papers/IndustryTrack/ISWC2017_paper_497.pdf
+Business Analytics Using The Knowledge Graph
+Built Over The Russian Legal Entities Registry
+
+https://blog.vsoftconsulting.com/blog/can-knowledge-graphs-improve-business-efficiency
+
+https://www2.deloitte.com/content/dam/Deloitte/de/Documents/operations/knowledge-graphs-pov.pdf
+
+https://ceur-ws.org/Vol-2454/paper_78.pdf
+Business Analytics on Knowledge Graphs
+for Market Trend Analysis*
+
+https://www.linkedin.com/pulse/why-havent-you-implemented-knowledge-graph-empower-your-amit-weitzner/
+
+https://aclanthology.org/2021.findings-acl.165.pdf
+End-to-End NLP Knowledge Graph Construction
+
+
+
