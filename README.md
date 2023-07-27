@@ -1,6 +1,6 @@
-# Talks - Presentations
+# Public Speaking 
 
-Archives of past talks / presentations, mostly outside academics world. Talks and presentations from academics world can only be archived here if license permits.
+Archives of past public speaking activities, mostly outside of academics world. Public speaking activities from academics world can only be archived here if license permits.
 
 ## LICENSE
 
