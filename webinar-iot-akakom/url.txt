@@ -1,0 +1,18 @@
+https://www.howtoforge.com/tutorial/how-to-install-tig-stack-telegraf-influxdb-and-grafana-on-ubuntu-1804/
+https://www.softwareadvice.com/resources/iot-data-analytics-use-cases/
+https://www.intertrust.com/blog/nine-use-cases-for-iot-data-analytics/
+https://research.aimultiple.com/iot-analytics/
+https://iot-analytics.com/top-10-iot-use-cases/
+https://insidebigdata.com/2017/01/28/5-solid-use-cases-of-iot-analytics-that-makes-it-truly-innovative/
+https://www.itransition.com/blog/iot-data-analytics
+https://medium.com/@ashish_fagna/influxdb-to-grafana-visualizing-time-series-data-in-real-time-2174940a894d
+https://www.influxdata.com/blog/how-influxdb-iot-data/
+https://www.influxdata.com/blog/prototyping-iot-with-influxdb-cloud-2-0/
+https://dzone.com/articles/raspberry-pi-iot-sensors-influxdb-mqtt-and-grafana
+https://blog.anoff.io/2021-01-send-iot-data-from-arduino-to-influxdb/
+
+Penampilan Ogut
+https://www.youtube.com/watch?v=zc9TeBiSkn4
+
+Simulator
+https://thenewstack.io/python-mqtt-tutorial-store-iot-metrics-with-influxdb/

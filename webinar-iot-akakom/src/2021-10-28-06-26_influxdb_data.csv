@@ -1,0 +1,9 @@
+#group,false,false,true,true,false,false,true,true,true,true,true
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#default,mean,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,host,location,topic
+,,0,2021-10-27T22:26:23.984956842Z,2021-10-27T23:26:23.984956842Z,2021-10-27T23:25:50Z,53,temperature,weather,dellvuan,gedung-mti,sensors
+,,0,2021-10-27T22:26:23.984956842Z,2021-10-27T23:26:23.984956842Z,2021-10-27T23:26:00Z,61.333333333333336,temperature,weather,dellvuan,gedung-mti,sensors
+,,0,2021-10-27T22:26:23.984956842Z,2021-10-27T23:26:23.984956842Z,2021-10-27T23:26:10Z,67.4,temperature,weather,dellvuan,gedung-mti,sensors
+,,0,2021-10-27T22:26:23.984956842Z,2021-10-27T23:26:23.984956842Z,2021-10-27T23:26:20Z,45.875,temperature,weather,dellvuan,gedung-mti,sensors
+

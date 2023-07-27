@@ -1,0 +1,9 @@
+from(bucket: "sensor@issrg-utdi")
+  |> range(start: v.timeRangeStart, stop:v.timeRangeStop)
+  |> filter(fn: (r) =>
+    r._measurement == "weather" and
+    r._field == "temperature"
+  )
+
+from(bucket:"sensor@issrg-utdi")
+    |> range(start: -15m)
